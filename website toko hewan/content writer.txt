@@ -1,0 +1,36 @@
+Judul : welcome to petmart
+Sub judul : Find High Quality Food for Your Pet!
+Tombol : Explore
+
+konten : 
+
+About Us :
+
+Welcome to Pet Food Store! We are your go-to destination for all your pet food needs. With more than 10 years of experience in this industry, we have provided a wide range of high-quality food for your pets. We believe that every pet deserves quality, healthy food. That's why we work hard to provide the best food options for a wide range of pets, from dogs and cats to birds and other small animals.
+
+Our Product :
+
+gambar produk
+
+Our service :
+
+Apart from providing quality pet food products, we are also committed to providing the best customer service.
+
+1. Providing High Quality Food: Providing various types of dry food, wet food, treats and special foods for various types of pets.
+2. Pet Nutrition Consultation: Provides veterinary nutritionist consultation to help pet owners choose food that meets their animal's nutritional needs.
+3. Delivery Services: Offer delivery services to make it easier for customers to get pet food without having to come to a physical store.
+4. Animal Health Products: Provides additional health products such as vitamin supplements, deworming medication, and dental care supplies to keep pets healthy.
+5. Animal Behavior Consultation: Provides consultation from an animal behaviorist to assist pet owners with behavior or training problems.
+6. Animal Care Products: Provides a variety of animal care products such as shampoo, fur brushes, and nail clippers to keep pets clean and healthy.
+
+Contact Us
+
+form contact : name, email, message
+
+Footer 
+
+social media : intagram, facebook, youtube, twitter
+address : dummy lorem ipsum
+
+&copy; 2024 PetMart (insert coding)
+
